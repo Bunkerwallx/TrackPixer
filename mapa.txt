@@ -1,0 +1,15 @@
+tracking_project/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── static/
+│   │   └── pixel.png
+│   ├── templates/
+├── config/
+│   ├── __init__.py
+│   └── config.py
+├── logs/
+│   └── tracking.log
+├── .env
+├── requirements.txt
+└── README.md
